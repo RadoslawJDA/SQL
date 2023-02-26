@@ -1,2 +1,2 @@
 # SQL
- sql notes
+ sql notes and excercises
